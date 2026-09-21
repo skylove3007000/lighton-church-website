@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="96" viewBox="0 0 320 96" fill="none">
+  <g transform="translate(4 8)">
+    <path d="M34 2C30 18 14 25 14 42c0 14 10 26 25 28-7-5-11-12-11-21 0-12 8-19 16-27 3 11 13 16 13 29 0 8-3 14-8 19 14-3 23-14 23-28C72 22 54 13 34 2Z" fill="#1565D8"/>
+    <path d="M40 23c-1 10-9 15-9 24 0 8 5 14 12 16-3-3-5-7-5-12 0-7 4-11 9-16 2 6 7 9 7 16 0 5-2 9-5 12 8-2 13-8 13-16 0-11-10-17-22-24Z" fill="#58A6FF"/>
+  </g>
+  <text x="92" y="43" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="24" font-weight="700" fill="#17324D">라이트온 교회</text>
+  <text x="93" y="63" font-family="Arial, sans-serif" font-size="10" letter-spacing="2.2" font-weight="700" fill="#6B7F93">LIGHTON CHURCH</text>
+</svg>

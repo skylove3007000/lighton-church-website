@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="라이트온 교회 전경 이미지 자리">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#78c8ff"/><stop offset=".62" stop-color="#dff3ff"/><stop offset="1" stop-color="#f7fbff"/></linearGradient>
+    <linearGradient id="lawn" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#82b875"/><stop offset="1" stop-color="#5d9b65"/></linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#sky)"/>
+  <circle cx="180" cy="155" r="72" fill="#ffe89a" opacity=".9"/>
+  <path d="M0 470c145-80 255-70 390-18 122 48 237 24 355-31 175-80 306-65 455 2v337H0z" fill="url(#lawn)"/>
+  <path d="M275 420h575v215H275z" fill="#f3f1eb"/>
+  <path d="M240 424l180-132 170 132z" fill="#7d5f52"/>
+  <path d="M500 424l186-145 212 145z" fill="#6b5148"/>
+  <rect x="448" y="335" width="72" height="300" rx="3" fill="#a84d3e"/>
+  <rect x="601" y="500" width="116" height="135" fill="#e6f0f4"/>
+  <rect x="624" y="523" width="70" height="112" fill="#7bb0c7"/>
+  <path d="M0 650h1200v110H0z" fill="#565e63"/>
+  <path d="M715 650h185l-26 110H687z" fill="#e9eef0" opacity=".9"/>
+  <g transform="translate(898 476)"><rect width="235" height="100" rx="8" fill="#9c3a35"/><text x="117" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#fff">ST LUKES</text><text x="117" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#fff">LIGHTON CHURCH</text></g>
+  <rect x="46" y="44" width="455" height="126" rx="18" fill="#fff" opacity=".9"/>
+  <text x="78" y="91" font-family="Arial,'Noto Sans KR',sans-serif" font-size="20" font-weight="700" fill="#1864cf">PALMERSTON NORTH · NZ</text>
+  <text x="78" y="137" font-family="Arial,'Noto Sans KR',sans-serif" font-size="36" font-weight="800" fill="#12324a">라이트온 교회</text>
+</svg>
