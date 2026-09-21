@@ -1,14 +1,16 @@
-# Lighton Church Website
+# LIGHTON CHURCH
 
-라이트온 교회(LIGHTON CHURCH) 공식 홈페이지 소스입니다.
+뉴질랜드 파머스턴노스 라이트온 교회 공식 홈페이지입니다.
 
+## 공개 홈페이지
+https://skylove3007000.github.io/lighton-church-website/
+
+## 구성
 - 교회 소개
 - 예배 안내
 - 말씀과 주보
 - 교육부
 - 교회 앨범
-- 처음 오셨나요?
-- 관리자 미리보기
+- 새가족 방문 안내
 
-GitHub Pages 배포 워크플로가 포함되어 있습니다.
-맞춤 도메인은 도메인 구매 후 연결합니다.
+현재 GitHub Pages의 `main / (root)` 배포 방식을 사용합니다. 맞춤 도메인은 추후 연결할 수 있습니다.

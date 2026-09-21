@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+
+Sitemap: https://skylove3007000.github.io/lighton-church-website/sitemap.xml

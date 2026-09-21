@@ -1,0 +1,9 @@
+{
+  "name": "라이트온 교회",
+  "short_name": "라이트온교회",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#185fd4",
+  "icons": []
+}
